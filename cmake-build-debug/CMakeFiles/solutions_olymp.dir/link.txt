@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/solutions_olymp.dir/main.cpp.o -o solutions_olymp 
